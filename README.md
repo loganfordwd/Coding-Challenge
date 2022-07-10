@@ -8,6 +8,8 @@ them.
 
 If I have completed any of the tasks incorrectly or misunderstood them, just send me an email and I will re-attempt the challenges that I messed up on.
 
+Also i'd like to add, that college did not really go throught git in as much detail as I thought, so apologies if i've messed up the git-side of things.
+
 Thank you for taking the time to read through them.
 
 Logan:)
