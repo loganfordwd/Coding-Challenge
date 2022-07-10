@@ -10,9 +10,10 @@
 
 <body>
 
-
+//I was not sure if the challenge asked for me to slugify the key using code or by hand. I attempted to use code but i could not get it to print. so 
+    This was the method I used//
     <?php
-
+    //words gathered from wordfinder//
     $rnd_words['dive emit chef sighting normal norwegian cool acquired wan ovarian'] = 'dive-emit-chef-sighting-normal-norwegian-cool-acquired-wan-ovarian';
     $rnd_words['wick
         fed
