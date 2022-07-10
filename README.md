@@ -10,6 +10,8 @@ If I have completed any of the tasks incorrectly or misunderstood them, just sen
 
 Also i'd like to add, that college did not really go throught git in as much detail as I thought, so apologies if i've messed up the git-side of things.
 
+Also (again), I am going to expand on the 'basic wordpress challenge' in this repo, it is titled 'NOT-CHALLENGE-EXPANDING-ON-WORDPRESS'. If you have time to have a look through throughout the week I would appreciate it a bunch.
+
 Thank you for taking the time to read through them.
 
 Logan:)
