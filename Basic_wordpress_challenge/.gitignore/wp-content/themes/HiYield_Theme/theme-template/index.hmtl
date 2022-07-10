@@ -1,1 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>HTML CSS Hi-Yield Challenege</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" rel="stylesheet">
+
+    <link href="basic_html_challenge_1.css" rel="stylesheet">
+
+</head>
+
+<body>
+    <main class="container leading-normal my-12 mx-auto px-4">
+        <div class="flex">
+            <!--Container as specified in the spec sheet-->
+            <div class="container">
+
+                <!--the first 'flex box', this contains the first image-->
+
+                <div class="flex flex-wrap -mx2 my-4">
+                    <div class="mb-4 px-2 sm:w-1/2 md:w-1/3 lg:w-1/4">
+                        <!--this is creating an image using picsum, this was given to me in the spec sheet-->
+                        <img class="block h-auto w-full" src="https://picsum.photos/600/600?random=1">
+                        <p style="text-decoration: underline;">RND img 1</p>
+                        <p><a href="##">View 1st image</a></p>
+                    </div>
+
+                    <div class="mb-4 px-2 sm:w-1/2 md:w-1/3 lg:w-1/4">
+                        <!--this is creating an image using picsum, this was given to me in the spec sheet-->
+                        <img class="block h-auto w-full" src="https://picsum.photos/300/300?random=2">
+                        <p style="text-decoration: underline;">RND img 2</p>
+                        <p><a href="##">View 2nd image</a></p>
+                    </div>
+
+                    <div class="mb-4 px-2 sm:w-1/2 md:w-1/3 lg:w-1/4">
+                        <!--this is creating an image using picsum, this was given to me in the spec sheet-->
+                        <img class="block h-auto w-full" src="https://picsum.photos/300/300?random=3">
+                        <p style="text-decoration: underline;">RND img 3</p>
+                        <p><a href="##">View 3rd image</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+</body>
+
+</html>
