@@ -1,1 +1,8 @@
+body {
+    background-color: wheat;
+}
 
+.flex-wrap {
+    align-items: center;
+    justify-content: center;
+}
